@@ -13,5 +13,5 @@ public class StringSplit {
 	            System.out.println(a);
 	    }
 	}
-}
+};
 
